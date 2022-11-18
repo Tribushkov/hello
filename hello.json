@@ -1,44 +1,44 @@
 [
     {
       "name": "Leanne Graham",
-      "age": 38,
-      "country": "USA",
-      "occupation": "Devops Engineer",
-      "salary": 3000
+      "visa": "CN", 
+      "country": "SVO",
+      "rank": "Капитан",
+      "flight_hours": 78
     },
     {
       "name": "Ervin Howell",
-      "age": 27,
-      "country": "USA",
-      "occupation": "Software Engineer",
-      "salary": 2300
+      "visa": "IN",                            
+      "country": "LED",
+      "rank": "Второй пилот",
+      "salary": 54
     },
     {
       "name": "Clementine Bauch",
-      "age": 17,
-      "country": "Canada",
-      "occupation": "Student",
-      "salary": null
+      "visa": "US",
+      "country": "LED",
+      "rank": "Второй пилот",
+      "salary": 89
     },
     {
       "name": "Patricia Lebsack",
-      "age": 42,
-      "country": "UK",
-      "occupation": "Software Engineer",
-      "salary": 2800
+      "visa": "EU",
+      "country": "JFK",                               
+      "rank": "Второй пилот",
+      "salary": 35
     },
     {
       "name": "Leanne Bell",
-      "age": 38,
-      "country": "USA",
-      "occupation": "Senior Software Engineer",
-      "salary": 4000
+      "visa": "CY",
+      "country": "OVB",
+      "rank": "Капитан",
+      "salary": 20
     },
     {
       "name": "Chelsey Dietrich",
-      "age": 32,
-      "country": "USA",
-      "occupation": "Software Engineer",
-      "salary": 3500
+      "visa": "POL",
+      "country": "VKO",
+      "rank": "Капитан",
+      "salary": 88   
     }
   ]
