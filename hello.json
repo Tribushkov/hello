@@ -11,21 +11,21 @@
       "visa": "IN",                            
       "country": "LED",
       "rank": "Второй пилот",
-      "salary": 54
+      "flight_hours": 54
     },
     {
       "name": "Clementine Bauch",
       "visa": "US",
       "country": "LED",
       "rank": "Второй пилот",
-      "salary": 89
+      "flight_hours": 89
     },
     {
       "name": "Patricia Lebsack",
       "visa": "EU",
       "country": "JFK",                               
       "rank": "Второй пилот",
-      "salary": 35
+      "flight_hours": 35
     },
     {
       "name": "Leanne Bell",
@@ -39,6 +39,6 @@
       "visa": "POL",
       "country": "VKO",
       "rank": "Капитан",
-      "salary": 88   
+      "flight_hours": 88   
     }
   ]
